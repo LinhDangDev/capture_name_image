@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# capture_name_image
-=======
 # Capture Image Tool
 
 A screen capture application that can capture selected areas with a 2-second delay, allowing cursor movement and precise image capture.
@@ -80,7 +77,6 @@ You can package the application into an .exe file to run without Python installa
 3. The .exe file will be created in the "dist" folder
 
 ## Notes
-
 - If the default save directory doesn't exist, the application will create it automatically
 - Make sure you have write permissions to the selected save directory
->>>>>>> e1d8780 (Complete Project)
+
